@@ -1,6 +1,7 @@
 # startup_namer
 
 A new Flutter project.
+Write your first Flutter app
 
 ## Getting Started
 
